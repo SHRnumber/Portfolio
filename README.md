@@ -1,6 +1,7 @@
 # Hamza Rashid - Portfolio
 
-![Portfolio Screenshot](./assets/Screenshot%202025-05-26%20184002.png)
+
+![Portfolio Screenshot] ![Screenshot 2025-05-26 184002](https://github.com/user-attachments/assets/b8d0f8e0-e8a7-4437-927d-163292d19a41)
 
 > Live Demo: [admirable-cascaron-38185a.netlify.app](https://admirable-cascaron-38185a.netlify.app)
 
